@@ -1,0 +1,13 @@
+#main{
+  background-color: #f0eecc;
+  text-align: center;
+}
+tribute-info{
+  margin: auto;
+  width: 50%;
+  text-align: left;
+  margin-top: 40px;
+}
+li{
+  margin-bottom: 20px;
+}
